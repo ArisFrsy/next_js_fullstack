@@ -1,0 +1,51 @@
+.home {
+    background-color: #531385;
+}
+
+.home2 {
+    background-color: #320A64;
+}
+
+.text-home {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+
+.home-1 {
+    color: #707C88;
+    font-size: 32px;
+}
+
+.home-2 {
+    color: #B0A1B4;
+    font-size: 44px;
+    font-weight: bold;
+}
+
+.home-2-1 {
+    color: white !important;
+}
+
+.home-3 {
+    color: white;
+    font-size: 12px;
+}
+
+.home-4 {
+    color: white;
+    font-size: 36px;
+}
+
+.icon-games {
+    border: none;
+    border-radius: 20px;
+    width: 100px;
+    /* height: 100%; */
+    align-items: center;
+    
+}
+
+.grid-icon {
+    justify-content: center !important;
+}

@@ -1,0 +1,37 @@
+.navbar {
+    background-color: #320A64;
+    padding: 25px;
+}
+
+.collapse {
+    justify-content: center;
+}
+
+.active {
+    color: white !important;
+}
+
+.nav-link {
+    /* color: rgba(255, 255, 255, 0.5); */
+    color: white !important;
+
+}
+
+.nav-link:hover {
+    color: lightblue;
+}
+
+.logo-images , .sigin {
+    width: 10%;
+    /* padding-left: 20px;
+    padding-right: 20px; */
+}
+
+.sigin {
+    background-color: #860F0F;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    border-radius: 20px;
+}
