@@ -1,5 +1,5 @@
 # next_js_fullstack
-base project for full stack development using Next JS, Prisma , React JS
+base project for full stack development using Next JS and Prisma
 
 ## How to run 
 
